@@ -1,6 +1,6 @@
 # Resume
 
-Last updated - 29-08-20
+Last updated - 06-11-20
 
 
-Webpage - https://achleshwar.github.io/achleshwarluthraCV/
+Webpage - https://achleshwar.github.io/achleshwarluthra/
